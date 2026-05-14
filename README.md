@@ -134,11 +134,6 @@ git push
 
 # 📸 Screenshots
 
-## 🔹 Static Website Hosted on S3
-
-![S3 Website](Screenshots/Screenshot%202026-04-27%20101702.png)
-
----
 
 ## 🔹 AWS CodePipeline Successful Execution
 
