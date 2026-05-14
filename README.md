@@ -197,7 +197,6 @@ nodejs-cicd/
 ```bash id="qjlwmnr"
 cd "D:\AWS Projects\nodejs-cicd"
 
-echo *.pem > .gitignore
 
 git init
 git add .
